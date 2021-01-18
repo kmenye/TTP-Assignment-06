@@ -1,2 +1,2 @@
 # TTP-Assignment-06
-TTP Winter Residency Assignment 6  - GIPHY API
+TTP Winter Residency Assignment 6  - ZIP AND CITY SEARCH
