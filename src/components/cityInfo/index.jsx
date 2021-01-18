@@ -14,11 +14,7 @@ export default class CityInfo extends Component {
                     return (
                         <CityDisplay 
                         key = {index}
-                        zip = {result.Zipcode}
-                        name = {result.City}
-                        state = {result.State}
-                        country = {result.Country}
-                        population = {result.EstimatedPopulation}
+                        zip = {result}
                         />
                     )
                 })}
